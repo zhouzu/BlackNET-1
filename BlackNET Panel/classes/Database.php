@@ -1,10 +1,10 @@
 <?php
 class Database
 {
-	private $username = "root";
-	private $password = "";
+	private $username = "atroot";
+	private $password = "1234567890";
 	private $host = "localhost";
-	private $db_name = "botnet";
+	private $db_name = "atbotnet";
 	private $charset = "utf8mb4";
 	public  $salt = "Yi89TTJ3bSxIcGxyVURhIzltXTdJcGtnJVdTdjNpU3BNSF9vU1BXe1N5JkoxP00pSC50MkY2TVdCdDZuNg==";
 	public  $admin_email = "admin@localhost";
